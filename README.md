@@ -49,6 +49,7 @@ Response is also provided in JSON format
 #### Libraries
 
 - Guava - 21.0
+- Apache Commons IO - 2.5
 
 ## License
 Code released under the  Apache License 2.0. Docs released under Creative Commons.
